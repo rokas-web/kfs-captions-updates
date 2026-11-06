@@ -1,0 +1,4 @@
+{
+  "payload": "{\"schema\": 1, \"version\": \"1.2.0\", \"runtime\": 2, \"notes\": \"Automatic updates, script spelling in captions, timing kept through edits.\", \"size\": 338110, \"sha256\": \"6fa8b785576bb92ff9deedc11294b816cd523953ccd68b1a6c5fb630fd763552\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.0.zip\"}",
+  "signature": "IwLKrbeCaehVkhhdlF7Bt42Bu9GIsfsX3MeRJPeWB1BpdrInDQpCoD1AKCdq4w8VsjAUA1L++wYcjNjYCBHLAg=="
+}
