@@ -1,4 +1,4 @@
 {
-  "payload": "{\"schema\": 1, \"version\": \"1.2.1\", \"runtime\": 2, \"notes\": \"Works with Premiere Pro 2027 and later.\", \"size\": 338433, \"sha256\": \"d943ad76644086e61af8f73143f5b1b945e289f57d9d888b61b74731e798a391\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.1.zip\"}",
-  "signature": "nLOEamSI0iLsguNb7MMe4qyFa8PL3+ukVWt3UeHKM4vW7ftGI+CxLbEbqtFyqp/uQ+WPV1smWVZCR0elyp1WAQ=="
+  "payload": "{\"schema\": 1, \"version\": \"1.2.2\", \"runtime\": 2, \"notes\": \"Add styled captions waits for Premiere to finish importing; works on the first click.\", \"size\": 338734, \"sha256\": \"41edaa33beeabbab971f3c39d2353f41953616e144bb163b846f1b3045087f43\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.2.zip\"}",
+  "signature": "uIARoOwRtmRyMSNKQRh5d3F5h7vKGgwuDxUzKTWudCxFnG9V8XUQYGohuPMNC8ZgdKE8xQK3eDRL5Qyl7HGWCA=="
 }
