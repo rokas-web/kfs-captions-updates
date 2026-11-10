@@ -1,4 +1,4 @@
 {
-  "payload": "{\"schema\": 1, \"version\": \"1.2.7\", \"runtime\": 2, \"notes\": \"The panel checks for updates every 30 minutes while idle, so fixes arrive without reopening it.\", \"size\": 340924, \"sha256\": \"0901783a7422fd43dd557e469679075f90787ed4c9045097e73b2535a69e4a0e\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.7.zip\"}",
-  "signature": "mnQ2aGJBnPcI22hXDN/YTFdkf+9fkLjv9yp2kqJJV9wOU0DQ9ysnnGXSeBy9LT+5X33tn12s7JmCpW68VsEgCQ=="
+  "payload": "{\"schema\": 1, \"version\": \"1.2.8\", \"runtime\": 2, \"notes\": \"Styled captions are placed whenever Premiere adds an empty top track, instead of stopping with 'Premiere changed your video tracks unexpectedly'.\", \"size\": 341059, \"sha256\": \"b77f0a3a97abccb6e1d69aafd43c2cc8f2f4b2c9dc62de6b9ab9d224d3b1c017\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.8.zip\"}",
+  "signature": "XV5OPqeoDjE5VdlqJacSKU2niL8wUf66wZEvsdX8/IhtePwSuhZN5D4HNEWYuKh1NnIP0layrgzpoEFEwV2JAQ=="
 }
