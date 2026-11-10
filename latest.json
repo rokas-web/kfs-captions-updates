@@ -1,4 +1,4 @@
 {
-  "payload": "{\"schema\": 1, \"version\": \"1.2.3\", \"runtime\": 2, \"notes\": \"Refresh works on sequences with text, graphics or nested clips.\", \"size\": 338785, \"sha256\": \"14801eda244c49ee659af6b960e6162c58e7e22c423522b03a6dd076690e0d04\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.3.zip\"}",
-  "signature": "azf4ngb0csQ4xIxhDDpm34BAwdmhn2NUCz8rBaRFoU8FldkpKlppHRjg1NmWGjfVUkLMlw8qdtVs0NtHjQFCBw=="
+  "payload": "{\"schema\": 1, \"version\": \"1.2.4\", \"runtime\": 2, \"notes\": \"Fixes doubled captions at shot cuts. Rebuilding older captions removes the doubles. New update signing key.\", \"size\": 340083, \"sha256\": \"1cb32b644a02aca74204f5fbfbab025ad33bb0a974edd349476cfcf53ce52f8d\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.4.zip\"}",
+  "signature": "Isi+X5NdKk5zwfSfmC2+cqp2cnNNrcKV2M+pRwuXHaEBKl+RXisAZ8idZ7wpBGSx3XYptiTCuKwLFKZal4L7AA=="
 }
