@@ -1,4 +1,4 @@
 {
-  "payload": "{\"schema\": 1, \"version\": \"1.2.6\", \"runtime\": 2, \"notes\": \"Emptying a caption's text deletes it; captions work after a sequence is shortened; Add styled captions places its track correctly in more Premiere versions.\", \"size\": 340797, \"sha256\": \"a9bafbdced7eb8219d17f176d83d71e868b02108f008d35fd7323a93efc34e9f\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.6.zip\"}",
-  "signature": "lDX+GKC1cBF26WYNCuoL9qcepWHn6awfneOjTEyOeYbfi9HNTrvEfDpEur4ijbDg/i5+9IHsqGR4RAkP2wNNCg=="
+  "payload": "{\"schema\": 1, \"version\": \"1.2.7\", \"runtime\": 2, \"notes\": \"The panel checks for updates every 30 minutes while idle, so fixes arrive without reopening it.\", \"size\": 340924, \"sha256\": \"0901783a7422fd43dd557e469679075f90787ed4c9045097e73b2535a69e4a0e\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.7.zip\"}",
+  "signature": "mnQ2aGJBnPcI22hXDN/YTFdkf+9fkLjv9yp2kqJJV9wOU0DQ9ysnnGXSeBy9LT+5X33tn12s7JmCpW68VsEgCQ=="
 }
