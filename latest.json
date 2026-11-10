@@ -1,4 +1,4 @@
 {
-  "payload": "{\"schema\": 1, \"version\": \"1.2.4\", \"runtime\": 2, \"notes\": \"Fixes doubled captions at shot cuts. Rebuilding older captions removes the doubles. New update signing key.\", \"size\": 340083, \"sha256\": \"1cb32b644a02aca74204f5fbfbab025ad33bb0a974edd349476cfcf53ce52f8d\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.4.zip\"}",
-  "signature": "Isi+X5NdKk5zwfSfmC2+cqp2cnNNrcKV2M+pRwuXHaEBKl+RXisAZ8idZ7wpBGSx3XYptiTCuKwLFKZal4L7AA=="
+  "payload": "{\"schema\": 1, \"version\": \"1.2.5\", \"runtime\": 2, \"notes\": \"Fixes doubled captions at shot cuts (rebuilding older captions removes the doubles) and very slow caption fitting on sequences without cuts.\", \"size\": 340169, \"sha256\": \"8d598c2b40cc970d2d5778d784658eeac6287cb1361655b485bd4038a79cbcc5\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.5.zip\"}",
+  "signature": "jibNyIb7us5PBofneM86qoAXaWuhuxuNKklmCByd/PnQDVKck/8Xm8+ATlgoGGfsBG5lLBswbpLcq00peHRKAg=="
 }
