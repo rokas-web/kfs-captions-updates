@@ -1,4 +1,4 @@
 {
-  "payload": "{\"schema\": 1, \"version\": \"1.2.5\", \"runtime\": 2, \"notes\": \"Fixes doubled captions at shot cuts (rebuilding older captions removes the doubles) and very slow caption fitting on sequences without cuts.\", \"size\": 340169, \"sha256\": \"8d598c2b40cc970d2d5778d784658eeac6287cb1361655b485bd4038a79cbcc5\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.5.zip\"}",
-  "signature": "jibNyIb7us5PBofneM86qoAXaWuhuxuNKklmCByd/PnQDVKck/8Xm8+ATlgoGGfsBG5lLBswbpLcq00peHRKAg=="
+  "payload": "{\"schema\": 1, \"version\": \"1.2.6\", \"runtime\": 2, \"notes\": \"Emptying a caption's text deletes it; captions work after a sequence is shortened; Add styled captions places its track correctly in more Premiere versions.\", \"size\": 340797, \"sha256\": \"a9bafbdced7eb8219d17f176d83d71e868b02108f008d35fd7323a93efc34e9f\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.6.zip\"}",
+  "signature": "lDX+GKC1cBF26WYNCuoL9qcepWHn6awfneOjTEyOeYbfi9HNTrvEfDpEur4ijbDg/i5+9IHsqGR4RAkP2wNNCg=="
 }
