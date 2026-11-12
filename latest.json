@@ -1,4 +1,4 @@
 {
-  "payload": "{\"schema\": 1, \"version\": \"1.2.13\", \"runtime\": 2, \"notes\": \"Safe zones button on the live preview: lays the Kandy 9x16-to-4x5 safe-zone overlay over the preview, one click on or off, remembered.\", \"size\": 399777, \"sha256\": \"4f740f2f57aa6030f67734329b84484f566343211e006015dd49eb157fc8246e\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.13.zip\"}",
-  "signature": "PxFY4ihlZS3FECeVqyn7gCgVQaHPk6l0W5FVT/fU3uTt3Os3mRS0M1yXdwd0o4qPWmv+fLmhQdMMwCoERi6WAw=="
+  "payload": "{\"schema\": 1, \"version\": \"1.2.14\", \"runtime\": 2, \"notes\": \"Undo and redo in the panel: Cmd/Ctrl+Z undoes the last panel change (any setting, the script text, caption text and breaks); Cmd/Ctrl+Shift+Z or Ctrl+Y redoes. Ctrl+Z no longer removes the pasted script by mistake.\", \"size\": 401152, \"sha256\": \"ebe7a837d241f4a49fec5add8efad47b0f754fd47b08a7dc080c2fd2431b3b3f\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.14.zip\"}",
+  "signature": "mIIRYrR74Y6uPSsf17ndWnGD3282eLblg/SEswtd6d3MP4AKIykd81coFMpdxz1eE6KZhew1sWLwNBNu4txYAw=="
 }
