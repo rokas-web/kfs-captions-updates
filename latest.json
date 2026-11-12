@@ -1,4 +1,4 @@
 {
-  "payload": "{\"schema\": 1, \"version\": \"1.2.15\", \"runtime\": 2, \"notes\": \"Numbers in captions: digits by default (three -> 3, even when the script spells it out), 24/7 keeps its slash, 4,000 no longer shows as 4 000. New Numbers setting under More options: Digits or As written in the script.\", \"size\": 404256, \"sha256\": \"126a71591797cd8af7917ba71461d7146d361f5217a889dae38680b163b56fc8\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.15.zip\"}",
-  "signature": "s1Y0j/FERjZIqSwY88hrn62zanuDxb1fI77IF5O1H3qtrS0A025/1DVWG/FYHFw1reoZ3kiXbKn9Yus/7mwDBw=="
+  "payload": "{\"schema\": 1, \"version\": \"1.2.16\", \"runtime\": 2, \"notes\": \"The caption list in Review & add can be dragged taller at its bottom-right corner, like the script box. The height is remembered.\", \"size\": 404538, \"sha256\": \"df1cb28cc87116beaee7ccac0d5684dedff3370d7d64e3219caee2db00c7cbdf\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.16.zip\"}",
+  "signature": "sx+wkP+b2k6l5rWdghVDG7deS7eZ3vZcUOYYfNjiJ1n4teKykepyj1CxBwc9NUx9dljUtVin8W+4VHBGIfReCQ=="
 }
