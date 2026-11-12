@@ -1,4 +1,4 @@
 {
-  "payload": "{\"schema\": 1, \"version\": \"1.2.10\", \"runtime\": 2, \"notes\": \"New option under More options: Gaps between captions. Keep a caption up until the next one when the pause is short (0.5 s, 1 s, 2 s) or always.\", \"size\": 343727, \"sha256\": \"46db8e72f70c763b25f64dc2759e2cd805b66b3d4ea335664e50bd52c88edb9f\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.10.zip\"}",
-  "signature": "Z9rJU6Egg3TfHmUem1N97J+Lv5dvkCx1wVWReTr/egq5+ISWDdYzfoitoHgPcsuyK+5J+lUH34MSNAjHlDWLDg=="
+  "payload": "{\"schema\": 1, \"version\": \"1.2.11\", \"runtime\": 2, \"notes\": \"New: a live preview in the Look section shows one caption at its exact size and position over the frame at the playhead, and updates as you change the look.\", \"size\": 345643, \"sha256\": \"cca508a192a7a8959e8293462c801f52fb05f35638764b417bd4454543767289\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.11.zip\"}",
+  "signature": "1BvBP+4fHklWT3A9b9JVMAftOJsBFYkvFvuZ5Jk+bMD2AmXQVBh32q2JTXVDhuuwh3JQOge/5UGdEMQ5E302CA=="
 }
