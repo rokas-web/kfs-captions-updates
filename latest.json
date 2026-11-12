@@ -1,4 +1,4 @@
 {
-  "payload": "{\"schema\": 1, \"version\": \"1.2.14\", \"runtime\": 2, \"notes\": \"Undo and redo in the panel: Cmd/Ctrl+Z undoes the last panel change (any setting, the script text, caption text and breaks); Cmd/Ctrl+Shift+Z or Ctrl+Y redoes. Ctrl+Z no longer removes the pasted script by mistake.\", \"size\": 401152, \"sha256\": \"ebe7a837d241f4a49fec5add8efad47b0f754fd47b08a7dc080c2fd2431b3b3f\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.14.zip\"}",
-  "signature": "mIIRYrR74Y6uPSsf17ndWnGD3282eLblg/SEswtd6d3MP4AKIykd81coFMpdxz1eE6KZhew1sWLwNBNu4txYAw=="
+  "payload": "{\"schema\": 1, \"version\": \"1.2.15\", \"runtime\": 2, \"notes\": \"Numbers in captions: digits by default (three -> 3, even when the script spells it out), 24/7 keeps its slash, 4,000 no longer shows as 4 000. New Numbers setting under More options: Digits or As written in the script.\", \"size\": 404256, \"sha256\": \"126a71591797cd8af7917ba71461d7146d361f5217a889dae38680b163b56fc8\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.15.zip\"}",
+  "signature": "s1Y0j/FERjZIqSwY88hrn62zanuDxb1fI77IF5O1H3qtrS0A025/1DVWG/FYHFw1reoZ3kiXbKn9Yus/7mwDBw=="
 }
