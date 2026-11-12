@@ -1,4 +1,4 @@
 {
-  "payload": "{\"schema\": 1, \"version\": \"1.2.9\", \"runtime\": 2, \"notes\": \"New: tick 'Only caption the In\\u2013Out range' to caption just part of the sequence; Replace then swaps only the captions inside that range.\", \"size\": 343251, \"sha256\": \"0710598e486380c55d468fada3ab977283a952266592941aeb8086442a0882d4\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.9.zip\"}",
-  "signature": "PkPpDEognOE9R+Z5hTQpO/lPTMa7weg2hxSWtfytysq/fz+C7KEfz9fXMRRLGvDyY5zcjF8GZbh81wH5jn9vAg=="
+  "payload": "{\"schema\": 1, \"version\": \"1.2.10\", \"runtime\": 2, \"notes\": \"New option under More options: Gaps between captions. Keep a caption up until the next one when the pause is short (0.5 s, 1 s, 2 s) or always.\", \"size\": 343727, \"sha256\": \"46db8e72f70c763b25f64dc2759e2cd805b66b3d4ea335664e50bd52c88edb9f\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.10.zip\"}",
+  "signature": "Z9rJU6Egg3TfHmUem1N97J+Lv5dvkCx1wVWReTr/egq5+ISWDdYzfoitoHgPcsuyK+5J+lUH34MSNAjHlDWLDg=="
 }
