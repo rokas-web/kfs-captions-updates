@@ -1,4 +1,4 @@
 {
-  "payload": "{\"schema\": 1, \"version\": \"1.2.11\", \"runtime\": 2, \"notes\": \"New: a live preview in the Look section shows one caption at its exact size and position over the frame at the playhead, and updates as you change the look.\", \"size\": 345643, \"sha256\": \"cca508a192a7a8959e8293462c801f52fb05f35638764b417bd4454543767289\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.11.zip\"}",
-  "signature": "1BvBP+4fHklWT3A9b9JVMAftOJsBFYkvFvuZ5Jk+bMD2AmXQVBh32q2JTXVDhuuwh3JQOge/5UGdEMQ5E302CA=="
+  "payload": "{\"schema\": 1, \"version\": \"1.2.12\", \"runtime\": 2, \"notes\": \"Replace selected only now follows caption breaks you fix after placing: split a caption in the review, select that clip on the timeline and it is split inside its current start and end. Joins merge the clips. Other captions keep your timing.\", \"size\": 347003, \"sha256\": \"cbbeae3fc7fa6e224b8d5026a0929cc718953405f28dffab87a26beecd835211\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.12.zip\"}",
+  "signature": "cxlB+WDbl9vmqJGRmZMzSkV1KFbJoPieO515qa2fJKqOBvwCM8WAO/RPowb5scf72FpKHIXutwCJg8YhaucADw=="
 }
