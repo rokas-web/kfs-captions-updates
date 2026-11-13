@@ -1,4 +1,4 @@
 {
-  "payload": "{\"schema\": 1, \"version\": \"1.2.18\", \"runtime\": 2, \"notes\": \"Add editable subtitles no longer shows every line twice when Shadow is on in the look.\", \"size\": 404724, \"sha256\": \"15a01fa1b50af687ca16b2e4ae058ec3dc372c71d3c602cde57769592b374bbe\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.18.zip\"}",
-  "signature": "+wc1B22bCZjBYcHC7sf9xCsH9Y8SamLr5mDnyKcpaXI6AylYCATfXJxm9VJ7eoo3TmlJ8BLL+9MZEvYWKXp+CQ=="
+  "payload": "{\"schema\": 1, \"version\": \"1.2.19\", \"runtime\": 2, \"notes\": \"Generate no longer stops with 'cannot fit within two lines at size N' when a long phrase is spoken in a very short time. The phrase is split into shorter captions instead.\", \"size\": 405060, \"sha256\": \"7d19d04c9d87a8a94ba12cc61196bcd1bd19f600d368bd12f67268d787bbda63\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.19.zip\"}",
+  "signature": "MJ7NF/OVjxe/cCmji7QkFu/jc1rPcbfCYNIaAqVU3zvCkxwRfRuX8UD7Zrj2qYNDKRw8mNCphTDeI9iA6Wv/AA=="
 }
