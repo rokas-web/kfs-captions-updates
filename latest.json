@@ -1,4 +1,4 @@
 {
-  "payload": "{\"schema\": 1, \"version\": \"1.2.19\", \"runtime\": 2, \"notes\": \"Generate no longer stops with 'cannot fit within two lines at size N' when a long phrase is spoken in a very short time. The phrase is split into shorter captions instead.\", \"size\": 405060, \"sha256\": \"7d19d04c9d87a8a94ba12cc61196bcd1bd19f600d368bd12f67268d787bbda63\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.19.zip\"}",
-  "signature": "MJ7NF/OVjxe/cCmji7QkFu/jc1rPcbfCYNIaAqVU3zvCkxwRfRuX8UD7Zrj2qYNDKRw8mNCphTDeI9iA6Wv/AA=="
+  "payload": "{\"schema\": 1, \"version\": \"1.2.20\", \"runtime\": 2, \"notes\": \"If the voiceover in a sequence was replaced, moved or deleted after captions were made, the panel now says so and points you to Generate captions, instead of reusing the old voiceover's words.\", \"size\": 405524, \"sha256\": \"81deb8b1f68ca08e697388a92308293d66fa39de4aa94c0ce9a314f89d714dfb\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.20.zip\"}",
+  "signature": "lE2qzOfzGpjBd4ZAoVTn5qwMiQVCunHw0FHknYKdDIN/lu9PKT871kCL/xeQAu5gIxBJ4Oubl15B8cAdx+XfBg=="
 }
