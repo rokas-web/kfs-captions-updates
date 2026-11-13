@@ -1,4 +1,4 @@
 {
-  "payload": "{\"schema\": 1, \"version\": \"1.2.17\", \"runtime\": 2, \"notes\": \"Script headings like 'Universal body', 'Shared body' or 'BODY (shared)' now count as the BODY section, so Generate no longer stops with 'Add the shared BODY after H1/H2/H3'.\", \"size\": 404660, \"sha256\": \"e94d92a4f97077e1db8c59418a80d829c42d3f4d15baace7457ae85e96229062\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.17.zip\"}",
-  "signature": "X1B85Nx+QNOWpjU++my3yrPlhg6hpHSV51BjldFh9TIOyirOZCiLv0KPUDSc4LLj4+B6gBITlSglP7h1WT5pBg=="
+  "payload": "{\"schema\": 1, \"version\": \"1.2.18\", \"runtime\": 2, \"notes\": \"Add editable subtitles no longer shows every line twice when Shadow is on in the look.\", \"size\": 404724, \"sha256\": \"15a01fa1b50af687ca16b2e4ae058ec3dc372c71d3c602cde57769592b374bbe\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.18.zip\"}",
+  "signature": "+wc1B22bCZjBYcHC7sf9xCsH9Y8SamLr5mDnyKcpaXI6AylYCATfXJxm9VJ7eoo3TmlJ8BLL+9MZEvYWKXp+CQ=="
 }
