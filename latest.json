@@ -1,4 +1,4 @@
 {
-  "payload": "{\"schema\": 1, \"version\": \"1.2.20\", \"runtime\": 2, \"notes\": \"If the voiceover in a sequence was replaced, moved or deleted after captions were made, the panel now says so and points you to Generate captions, instead of reusing the old voiceover's words.\", \"size\": 405524, \"sha256\": \"81deb8b1f68ca08e697388a92308293d66fa39de4aa94c0ce9a314f89d714dfb\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.20.zip\"}",
-  "signature": "lE2qzOfzGpjBd4ZAoVTn5qwMiQVCunHw0FHknYKdDIN/lu9PKT871kCL/xeQAu5gIxBJ4Oubl15B8cAdx+XfBg=="
+  "payload": "{\"schema\": 1, \"version\": \"1.2.21\", \"runtime\": 2, \"notes\": \"Caption times in Review & add can be typed: click a time, type start and end, press Enter. The time you type is kept when you add or replace captions. Size and position are now remembered for each style, and the panel opens on the last style you used.\", \"size\": 407271, \"sha256\": \"8c5517516998f7def1f7740a42f23e40df034ad6361f2cecd78cee88c79a0f1d\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.21.zip\"}",
+  "signature": "vRa5unwQDA0/PJWSLtshQkW9+1F6Y1Pd+hqPH2zSqwYtADPmYEocEyYHO7WHFVo27Y1Ft+lDNR0bxhfhfRxkAA=="
 }
