@@ -1,4 +1,4 @@
 {
-  "payload": "{\"schema\": 1, \"version\": \"1.2.21\", \"runtime\": 2, \"notes\": \"Caption times in Review & add can be typed: click a time, type start and end, press Enter. The time you type is kept when you add or replace captions. Size and position are now remembered for each style, and the panel opens on the last style you used.\", \"size\": 407271, \"sha256\": \"8c5517516998f7def1f7740a42f23e40df034ad6361f2cecd78cee88c79a0f1d\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.21.zip\"}",
-  "signature": "vRa5unwQDA0/PJWSLtshQkW9+1F6Y1Pd+hqPH2zSqwYtADPmYEocEyYHO7WHFVo27Y1Ft+lDNR0bxhfhfRxkAA=="
+  "payload": "{\"schema\": 1, \"version\": \"1.2.22\", \"runtime\": 2, \"notes\": \"Arrow keys now work in the panel's text boxes: move between letters and words, select with Shift, and use Home, End and Delete while typing captions or times.\", \"size\": 407647, \"sha256\": \"df8975888b2b13784f7c3d36a89ec6ec4494d93f39a056c6b68bc28d62d50f88\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.22.zip\"}",
+  "signature": "jZKIJNSgLDjFbjxUHlNKiMFxLltqIrpxa3ffXMtULqXBFwqbTjL2G2rcsbeWcj1abs4GXtZHVUB+45PaCcesCQ=="
 }
