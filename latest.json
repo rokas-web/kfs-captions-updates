@@ -1,4 +1,4 @@
 {
-  "payload": "{\"schema\": 1, \"version\": \"1.2.24\", \"runtime\": 2, \"notes\": \"Choose a White or Black panel with the switch at the top right of the panel. Your choice is remembered.\", \"size\": 409162, \"sha256\": \"09373046d844e511ac1cf112aeaac10552dab65de07e916803fe575dee32c2f2\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.24.zip\"}",
-  "signature": "o3RsWVpI+1QUnOwu2HpPTgIe4jOL2hbQLav4MsviEXvRYPWtwaeS8/ioT4QfyudJQAKCLP7Et1NlRt1dgtcMBw=="
+  "payload": "{\"schema\": 1, \"version\": \"1.2.25\", \"runtime\": 2, \"notes\": \"Panel text is a little bigger and easier to read.\", \"size\": 409291, \"sha256\": \"c40ad940aa622f59d3b5aa5107023b2e6332a3e848c30140b5d864d3ee809c33\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.25.zip\"}",
+  "signature": "pB2f2Mh8rM1SorK0w8XQsiPlcyaRW+XoxGSPE6n/vmFUAeG4Wbb6ilIVhz41R7PeU4ttf5sU8b7Fixb9iustDQ=="
 }
