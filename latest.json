@@ -1,4 +1,4 @@
 {
-  "payload": "{\"schema\": 1, \"version\": \"1.2.23\", \"runtime\": 2, \"notes\": \"Numbers the voiceover recognition splits (99.9%, 4.8, $49.99) stay whole. A word you correct in Review & add keeps the timing of the spoken words it replaces, so the caption no longer starts late. Punctuation you type in Review & add is kept when Punctuation is Off.\", \"size\": 408215, \"sha256\": \"ab98f4450535efec993c0a6b82aa771163bb0bc2f76e842ffdb3b907eaf2b468\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.23.zip\"}",
-  "signature": "Q06BrEu9+PHe65upgtiVi7XvsuCOJCBgm+sYI9eYGFJKVBncmDECI9i2vg1Ps2pO11RAcPD8qV4miXgpXEcADA=="
+  "payload": "{\"schema\": 1, \"version\": \"1.2.24\", \"runtime\": 2, \"notes\": \"Choose a White or Black panel with the switch at the top right of the panel. Your choice is remembered.\", \"size\": 409162, \"sha256\": \"09373046d844e511ac1cf112aeaac10552dab65de07e916803fe575dee32c2f2\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.24.zip\"}",
+  "signature": "o3RsWVpI+1QUnOwu2HpPTgIe4jOL2hbQLav4MsviEXvRYPWtwaeS8/ioT4QfyudJQAKCLP7Et1NlRt1dgtcMBw=="
 }
