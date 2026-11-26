@@ -1,4 +1,4 @@
 {
-  "payload": "{\"schema\": 1, \"version\": \"1.2.25\", \"runtime\": 2, \"notes\": \"Panel text is a little bigger and easier to read.\", \"size\": 409291, \"sha256\": \"c40ad940aa622f59d3b5aa5107023b2e6332a3e848c30140b5d864d3ee809c33\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.25.zip\"}",
-  "signature": "pB2f2Mh8rM1SorK0w8XQsiPlcyaRW+XoxGSPE6n/vmFUAeG4Wbb6ilIVhz41R7PeU4ttf5sU8b7Fixb9iustDQ=="
+  "payload": "{\"schema\": 1, \"version\": \"1.2.26\", \"runtime\": 2, \"notes\": \"With Scene-aware captions the caption now changes exactly on your video cuts, also after you fix breaks. Script headings like Hook:, HOOK 1 -, (BODY), CTA and speaker names are understood and never appear in captions; unspoken script notes and directions are no longer added.\", \"size\": 412347, \"sha256\": \"3d68a087fbe99b17e68a2f8636ef8b9f4969f0d9abefbd2edfe9a787df679f80\", \"url\": \"https://raw.githubusercontent.com/rokas-web/kfs-captions-updates/main/updates/kfs-update-1.2.26.zip\"}",
+  "signature": "B0Yr4Q4zXsqp87feOF7NC334zPPJ6FPIwDNtSMeyYbmr+T/+wjpRvX/uAH9IziegX3QZxT17sMB3ks6hiQS+Bw=="
 }
